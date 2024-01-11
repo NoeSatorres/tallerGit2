@@ -1,0 +1,6 @@
+crear una carpeta: mkdir
+entrar a carpeta: cd .\carpeta\
+volver una carpeta atras: cd ..
+volver a carpeta raiz: cd /
+listar archivos y carpetas: listar
+ver txt: cat texto.txt
